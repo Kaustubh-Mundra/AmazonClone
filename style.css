@@ -4,6 +4,7 @@
     border: border-box;
 }
 
+/* Navbar */
 .navbar{
     height: 60px;
     background-color: #0F1111;
@@ -107,3 +108,7 @@
     font-size: 0.85rem;
     font-weight: 700;
 }
+
+/* Navbar End */
+/* Navbar Junior */
+
